@@ -1,0 +1,36 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="67px" height="67px" viewBox="0 0 67 67" style="enable-background:new 0 0 67 67;" xml:space="preserve">
+<style type="text/css">
+
+	.st1{fill:#000;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:36px;}
+
+
+	.st0 {
+	fill:#11749E;
+	width:67px;
+	height: 67px;
+	animation: background 15s ease-in-out infinite;
+	}
+
+	@keyframes background {
+	from    {
+	transform: rotate(0deg);
+	}
+	to    {
+	transform: rotate(360deg);
+	}
+
+
+
+
+
+}
+
+</style>
+<rect class="st0" />
+
+<text transform="matrix(1 0 0 1 13.5459 42.8159)" class="st1 st2 st3">CS</text>
+
+</svg>
